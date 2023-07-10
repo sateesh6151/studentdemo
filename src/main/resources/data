@@ -1,0 +1,5 @@
+INSERT INTO 
+	STUDENTS (full_name, telephone, email, courses) 
+VALUES
+  	('Lokesh Raghu', 1234567, 'abc@gmail.com','java,python'),
+  	('John Chris', 325467457, 'xyz@email.com','html,react,css');
